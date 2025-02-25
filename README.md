@@ -3,7 +3,6 @@
 <h2>👨‍💻 Business Analyst Projects:</h2>
 
   - [Luxury Watches Analysis](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis)
-  - [Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Resume</h2>
 
