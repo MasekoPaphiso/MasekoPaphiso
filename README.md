@@ -6,7 +6,7 @@
 
 <h2>Resume</h2>
 
-- [Paphiso Maseko Resume] (General Resume_Paphiso Maseko.pdf)
+- [Paphiso Maseko Resume](https://github.com/MasekoPaphiso/MasekoPaphiso/blob/main/General%20Resume_Paphiso%20Maseko.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
