@@ -4,7 +4,7 @@
 
   - [Luxury Watches Analysis](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis)
   - [Bank Churn Analysis](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
-  - [Bank Churn Analysis](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
+  - [Blockchain Analytics Fantom Opera](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
 
 <h2>Resume</h2>
 
