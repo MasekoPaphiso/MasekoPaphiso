@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Business Analyst Projects:</h2>
 
-  - [Luxury Watches Analysis](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis)
+  - [Retail Analysis](https://github.com/MasekoPaphiso/Retail-Analysis.git)
   - [Bank Churn Analysis](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
   - [Blockchain Analytics Fantom Opera](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
 
