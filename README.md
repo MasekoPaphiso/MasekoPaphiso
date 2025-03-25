@@ -4,7 +4,7 @@
 
   - [Retail Analysis](https://github.com/MasekoPaphiso/Retail-Analysis.git)
   - [Churn Analysis](https://github.com/MasekoPaphiso/Churn-Analysis.git)
-  - [Blockchain Analytics Fantom Opera](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
+  - [SQL Analytics Fantom Opera](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
 
 <h2>Resume</h2>
 
