@@ -6,6 +6,7 @@
   - [Churn Analysis](https://github.com/MasekoPaphiso/Churn-Analysis.git)
   - [SQL Analytics Fantom Opera](https://github.com/MasekoPaphiso/Luxury-Watch-Analysis/blob/main/README.md)
   - [Mobile App BPM and Prototyping](https://github.com/MasekoPaphiso/BPM.git)
+  - [Pelton Revenue Forecasting](https://github.com/MasekoPaphiso/Revenue-Forecast.git)
 
 <h2>Resume</h2>
 
