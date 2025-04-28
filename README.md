@@ -8,6 +8,7 @@
   - [Mobile App BPM and Prototyping](https://github.com/MasekoPaphiso/BPM.git)
   - [Pelton Revenue Forecasting](https://github.com/MasekoPaphiso/Revenue-Forecast.git)
   - [Investment Model RGR and NPV](https://github.com/MasekoPaphiso/Scenario-Testing.git)
+  - [Financial Analysis Python](https://github.com/MasekoPaphiso/Data-Extraction-and-Analysis-Python.git)
 
 <h2>Resume</h2>
 
