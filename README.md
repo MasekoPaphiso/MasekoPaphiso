@@ -9,6 +9,7 @@
   - [Pelton Revenue Forecasting](https://github.com/MasekoPaphiso/Revenue-Forecast.git)
   - [Investment Model RGR and NPV](https://github.com/MasekoPaphiso/Scenario-Testing.git)
   - [Financial Analysis Python](https://github.com/MasekoPaphiso/Data-Extraction-and-Analysis-Python.git)
+  - [Financial AI chatbot Python](https://github.com/MasekoPaphiso/Financial-AI-chatbot.git)
 
 <h2>Resume</h2>
 
